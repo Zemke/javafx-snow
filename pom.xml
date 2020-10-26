@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>io.zemke.snow</groupId>
-  <artifactId>aspectj-snow</artifactId>
+  <artifactId>javafx-snow</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>aspectj-snow</name>
+  <name>javafx-snow</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
