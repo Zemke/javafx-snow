@@ -1,12 +1,9 @@
 # Snow
 
 ```
-mvn clean javafx:run
+mvn clean package
 ```
-
-Create runnable:
-
 ```
-mvn clean javafx:jlink
+java -jar target/javafx-snow-1.0.0.jar
 ```
 
